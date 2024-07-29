@@ -4,7 +4,13 @@ Created on Mon Jul 10 15:45:09 2024
 
 @author: charv
 """
-#and gate 
+'''
+AND TABLE
+0   0  -->  0
+0   1  -->  0
+1   0  -->  0
+1   1  -->  1
+'''
 #inputs
 x1 = [0, 0, 1, 1]
 x2 = [0, 1, 0, 1]
