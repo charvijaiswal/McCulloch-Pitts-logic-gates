@@ -7,7 +7,8 @@ The very first step towards the perceptron we use today was taken in 1943 by McC
 Model Architecture:
 The motivation behind the McCulloh Pitt’s Model is a biological neuron. A biological neuron takes an input signal from the dendrites and after processing it passes onto other connected neurons as the output if the signal is received positively, through axons and synapses. This is the basic working of a biological neuron which is interpreted and mimicked using the McCulloh Pitt’s Model.
 
-![image](https://github.com/user-attachments/assets/04156326-0577-47e3-ac29-ea5a898d766b)
+![image](https://github.com/user-attachments/assets/6ac16888-90ac-4f17-8b27-fb0c21a48efe)
+
 
 McCulloch Pitt’s model of neuron is a fairly simple model which consists of some (n) binary inputs with some weight associated with each one of them. An input is known as ‘inhibitory input’ if the weight associated with the input is of negative magnitude and is known as ‘excitatory input’ if the weight associated with the input is of positive magnitude. As the inputs are binary, they can take either of the 2 values, 0 or 1. 
 
